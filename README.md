@@ -529,7 +529,5 @@ C/C++集成开发环境列表
 *   [List of tools for static code analysis](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis#C.2FC.2B.2B) ：来自维基百科的静态代码分析工具列表
    
 
-<h3 id="weibo-weixin">微信公众号</h3>
-* CPP开发者：专注分享 C/C++ 开发相关的技术文章和工具资源。
-<br><img src="http://ww1.sinaimg.cn/small/63918611gw1epb2c4w55aj2046046t8t.jpg" width=150 height=150>
+
 
